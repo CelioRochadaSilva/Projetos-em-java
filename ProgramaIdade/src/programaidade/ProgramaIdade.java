@@ -27,6 +27,7 @@ public class ProgramaIdade {
         System.out.println("Você é maior de idade");
             System.out.println("Sua idade é " + i  + " anos");
         }else{
+            // mostra idade
             System.out.println("Você menor de idade");
         }
     }

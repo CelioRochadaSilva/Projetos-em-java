@@ -18,7 +18,7 @@ public class TelaGenio extends javax.swing.JFrame {
      * Creates new form TelaGenio
      */
     public TelaGenio() {
-        initComponents(); // construtor
+        initComponents(); // construtor .....
         lblFrase.setText("<html>Pense em valor entre 1 e 5</html>");                                                                                 
     }
 
